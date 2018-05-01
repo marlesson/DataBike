@@ -1,0 +1,14 @@
+setup.py
+debike/__init__.py
+debike/items.py
+debike/middlewares.py
+debike/pipelines.py
+debike/settings.py
+debike/spiders/__init__.py
+debike/spiders/tosacrap-js-sampa.py
+debike/spiders/toscrape-js.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

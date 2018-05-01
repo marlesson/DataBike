@@ -1,0 +1,5 @@
+debike/dataset.jl
+*.pyc
+metastore_db/
+gyn_dataset.ipynb
+.ipynb_checkpoints/
